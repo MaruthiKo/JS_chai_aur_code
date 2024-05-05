@@ -11,3 +11,12 @@
 - Stack => copy of the value is given
 - Heap => reference is given
 
+## Async:
+- JavaScript is Synchronous
+- Javascript is Single Threaded (by default)
+
+## Block Code vs Non Blocking Code
+- Blocking => Sync
+- Non-Blocking => Async
+- WebAPI is found on browser
+- Task Queue allows the speed of execution
