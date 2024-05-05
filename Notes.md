@@ -10,3 +10,4 @@
 - Stack `LIFO` (Primitive), Heap (Non-Primitive)
 - Stack => copy of the value is given
 - Heap => reference is given
+
